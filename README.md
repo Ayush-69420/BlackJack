@@ -1,6 +1,5 @@
 # BlackJack
 A simple Blackjack game in Python
-Here’s a `README.md` file tailored to your Blackjack game code:
 
 ---
 
@@ -113,10 +112,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Screenshots
-(You can add screenshots of the game here if available.)
-
----
 
 Enjoy playing Blackjack! If you have any questions or suggestions, feel free to open an issue or contribute to the project.
 
